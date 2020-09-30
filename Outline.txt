@@ -1,0 +1,82 @@
+- Hellos
+- What I've been asked to teach: How to do a tech interview
+- Lots of books out there but the industry has leaned towards "Cracking the Coding Interview" by GAYLE LAAKMANN MCDOWELL as the defacto best practice guide. 
+
+- Lots of different sizes of companies and styles of interviewing
+  - I'm going to focus on comparing the stereo typical large company and start up company interviews
+  
+The flows:
+
+  LARGE
+    - Phone interview
+    - a week or two
+    - coding interview
+    - a week or two
+    - manager interview
+    - potentially repeat for several interviewers
+    - offer. 
+   
+  SMALL
+    - In person meeting
+        - coding challenge
+    - Personality check
+    - offer
+
+  When in doubt about the flow, kindly ask. 
+  
+
+How to get the first interview:
+
+ - Build projects
+   - Classes
+   - Interships
+   - Your own free time (GitHub)
+ - Put yourself out there
+   - Publish on the internet (Medium, etc)
+   - Give talks or lightning talks at conferences
+
+RESUME
+    - Get help with the Resume (simple and to the point is better than anything else in my opinion).
+    - Put only the bigger milestones to avoid noise
+
+THE CODING INTERVIEW
+
+- Show up on time, even a bit early is best.
+  - For me, one of the best predictors of how easy it will be to work with any person is if they show up on time to an interview.
+- Do some light chit chat. Not fake but interested in the interviewer. 
+- Get the coding challenge and before you start, draw the problem. 
+  - 30% of our compute power is in our occipital lobe. Don't waist it. 
+- Ask lots of clarifying questions. 
+  - This shows you can probe for corner cases prior to starting the work. Good engineering.
+- Take a wack at it. Solve it in the first way that comes to mind. Usually this is a very inefficient solution. BUT! It's a starting place. Then refine, refine, refine.
+  - Remove particularly inefficient code: Replace linked list if a map will do the same job better.
+  - Try your algo with a small simple problem.
+  - Try your algo with edge cases.
+  - Gayle uses the accronym BUD (iterate by removing Bottelnecks, Unneeded work, and Duplicated work)
+
+- Talk through the problem. Don't just do it in your head. Same thing from school when they told you don't just write down the answer. Write down each step. This shows you thought process and it is what an interviewer wants.
+  - An incomplete answer with great lead up is much better than a complete answer with no lead up. Plus you get partial credits :)
+  - Break The Problem Down!
+    - Each part of the problem can be broken down into multiple smaller chuncks. 
+    - Its smaller chunks that make up each tool in our eco system. 
+    
+Finally write code. Leave this for last so that you don't spend your time correcting coding mistakes and focus your time on algo performance.
+  
+- Big companies work with big data. They need solutions that scale. 
+  - Thus they will want to make sure you understand Big-O concepts. 
+  - Particular language is not important because they will use that lang some where. They use them all. 
+
+- Smaller teams / companies will focus more on specifics of a language and framework. 
+  - You should know the language and frameworks they are using by asking before the interview or during phone screen. 
+  - Usually you don't need to be a wiz in the language but need to be able to tackle a basic Big-O problem.
+  - Ask if you can use your language of choice if its not clear which language you need to code in. 
+  - Usually a fishy sign if the company doesn't allow you to use your language of choice. If not, they are grading you 
+    on the "wrong" things.
+
+- Talk Big-O for a while. Do complexity lecture.
+
+- End of interview. Say your thanks and follow up with POC, but not the coding interviewer. 
+  They are usually engineers with just enough time to do the interview. 
+  If you have a contact for your interviewer, a simple "Thank you" email is fine in the following days but nothinig more and do not expect a response.
+  
+Practice. Go on interviews. Do interview problems at home over your favorite beverage. Don't let your first interview be the frist time you see an interview like question. This will help you stay in tune with the demands of the market. 
